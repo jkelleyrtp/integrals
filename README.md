@@ -2,10 +2,12 @@
 
 This crate provides some advanced math functions taken from cephes.
 
+It's roughly meant to be scipy for Rust.
+
 It's eventually intended to be part of an advanced type-safe math library, but for now, it's just a humble collection of well-tested functions.
 
 Elliptic integrals
----
+---------
 - ellipkm1
 - ellipk
 - ellipe
